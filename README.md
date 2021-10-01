@@ -12,4 +12,4 @@ This repository contains all raw data used in the development of DNA computers i
 
 The data listed in the table above is used to support the following work:
 ### Molecular convolutional neural networks with DNA regulatory circuits
-Xiewei Xiong, Tong Zhu, Yun Zhu, Mengyao Cao, Jing Xiao, Li Li, Fei Wang, Chunhai Fan and Hao Pei*
+Xiewei Xiong, Tong Zhu, Yun Zhu, Mengyao Cao, Jin Xiao, Li Li, Fei Wang, Chunhai Fan and Hao Pei*
